@@ -1,0 +1,109 @@
+body {
+
+    background: #777;
+
+    width: 75%;
+
+    margin: 0px auto;
+
+    text-align: center;
+
+    font-size: '18px'
+
+}
+
+header, nav, section, article, b, p, aside,
+
+footer {
+
+    padding: 25px;
+
+    border: 1px solid #fff;
+
+    margin: 10px;
+
+}
+
+header, nav, section,
+
+b, p, aside,
+
+footer {
+
+    background: #ebebeb; color: #777;
+
+}
+
+article {
+
+    background: #777; color: #ebebeb;
+
+}
+
+section,
+
+aside {
+
+    width: 50%; display: inline-table; margin: 10px 2px;
+
+}
+
+Aside {
+
+    height: 280px; width: 39%;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+Header
+
+</header>
+
+<nav>
+
+Nav
+
+</nav>
+
+<section>
+
+Section
+
+<article>
+
+Article
+
+<p>h1, h2, h3</p>
+
+<p>
+
+p
+
+</p>
+
+</article>
+
+</section>
+
+<aside>
+
+Aside
+
+</aside>
+
+<footer>
+
+Footer
+
+</footer>
+
+</body>
+
+</html>
